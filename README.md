@@ -4,7 +4,7 @@ A lightweight, eye-catching portfolio built with Next.js and custom CSS. The des
 
 ## Important
 
-- The portrait file in `public/ananias-profile.png` is an untouched copy of the photo supplied for the portfolio.
+- The portrait in `public/ananias-profile.webp` is a web-optimized copy of the supplied photo. No facial retouching, AI filtering, or appearance changes were applied.
 - No passwords, API keys, private IDs, or other credentials are included.
 - The project uses a static export (`output: 'export'`), so it can be hosted without a continuously running server.
 
@@ -32,8 +32,8 @@ The generated static site will be in the `out/` folder.
 
 ## Easiest free publishing path
 
-1. Create a GitHub repository and upload this project.
-2. Import the repository into Vercel.
+1. Keep this repository in GitHub.
+2. Import it into Vercel.
 3. Vercel detects Next.js automatically and publishes it.
 4. Your laptop can be turned off; the portfolio remains online.
 
